@@ -180,7 +180,7 @@ let menusimple = false
 let Mloc = false
 let autobio = setting.autobio
 let antihidetag = setting.antihidetag
-let antilink = seting.antilink
+
 
 banChats = setting.self_mode
 autorespon = true
