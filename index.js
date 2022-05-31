@@ -176,20 +176,20 @@ let multi = true
 let nopref = false
 let single = false
 let prefa = setting.prefix
-let menusimple = false
+let menusimple = true
 let Mloc = false
 let autobio = setting.autobio
 let antihidetag = setting.antihidetag
 
 banChats = setting.self_mode
-autorespon = false
+autorespon = true
 offline = false
 readGc = true 
-readPc = false 
-antitrol = false 
+readPc = true
+antitrol = true 
 bugc = false
-autovn = true
-autoketik = false
+autovn = false
+autoketik = true
 autoregister = setting.user_register
 
 img = setting.img
