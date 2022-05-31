@@ -1,5 +1,6 @@
 {
     "self_mode": false,
+        "antilink": true,
 	"autobio": true,
 	"antihidetag": false,
 	"user_register": false,
