@@ -176,10 +176,11 @@ let multi = true
 let nopref = false
 let single = false
 let prefa = setting.prefix
-let menusimple = true
+let menusimple = false
 let Mloc = false
 let autobio = setting.autobio
 let antihidetag = setting.antihidetag
+let antilink = seting.antilink
 
 banChats = setting.self_mode
 autorespon = true
